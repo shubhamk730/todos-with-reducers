@@ -1,0 +1,19 @@
+.list {
+  background: cyan;
+  width: 50%;
+  margin-left: 20%;
+  border: 2px solid darkblue;
+  border-radius: 5px;
+  list-style: none;
+  padding: 2%;
+}
+
+.list button {
+  border-radius: 5px;
+  margin-left: 10%;
+  color: white;
+  background: red;
+}
+li {
+  margin: 10px;
+}

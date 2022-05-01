@@ -1,0 +1,27 @@
+.holder {
+  width: 50%;
+  height: 200px;
+  background: gray;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-left: 20%;
+  box-sizing: border-box;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.list-item input {
+  margin: 5px;
+}
+
+label {
+  margin-left: 5px;
+}
+
+.submitButton {
+  width: 50%;
+  margin: auto;
+}
